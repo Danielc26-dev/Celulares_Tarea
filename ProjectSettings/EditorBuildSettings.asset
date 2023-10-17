@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 591de0ebd5f03474ba31466b387e3801
+  - enabled: 1
+    path: Assets/Scenes/Game.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/Configuracion.unity
+    guid: 3e08289759ea92a40b27f33f9d367f7c
+  - enabled: 1
+    path: Assets/Scenes/Puntaje.unity
+    guid: d959e82a44fa83e4caf6d0ede5ef20fd
+  - enabled: 1
+    path: Assets/Scenes/Seleccion_PJ.unity
+    guid: d6dd5487d1fd5d241af7b570b90055ba
+  - enabled: 1
+    path: Assets/Scenes/Carga.unity
+    guid: 44aa56c291fba384bb1e6aacdf5b2752
+  - enabled: 1
+    path: Assets/Scenes/Final.unity
+    guid: 1c11af99040a20c43b952498f82d5103
+  - enabled: 1
+    path: Assets/Scenes/Goblal_Scene_Manager.unity
+    guid: 39a91588d022ed54f86e8fc75668300d
+  m_configObjects: {}

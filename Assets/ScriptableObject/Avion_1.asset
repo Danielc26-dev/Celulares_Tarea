@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6734ad3b3b1eb944188eeb94c876c210, type: 3}
+  m_Name: Avion_1
+  m_EditorClassIdentifier: 
+  personajeJugable: {fileID: 5782017929560880311, guid: 0d76dc8d4f4e10e468fb8c022fd56f43, type: 3}
+  Imagen: {fileID: 21300000, guid: 4405ad2df75a39649b4b56551dbb7b4f, type: 3}
+  nombre: Avion T-34
